@@ -3,9 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package factory;
 
-import product.Button;
 /**
  *
  * @author alina
@@ -23,5 +21,4 @@ public abstract class Dialog {
      * objects.
      */
     public abstract Button createButton();
-
 }
