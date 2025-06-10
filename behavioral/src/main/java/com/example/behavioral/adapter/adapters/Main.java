@@ -1,6 +1,5 @@
-package com.example.behavioral;
+package com.example.behavioral.adapter.adapters;
 
-import com.example.behavioral.adapter.adapters.SquarePegAdapter;
 import com.example.behavioral.adapter.round.RoundPeg;
 import com.example.behavioral.adapter.round.RoundShaped;
 import com.example.behavioral.adapter.round.SquarePeg;
