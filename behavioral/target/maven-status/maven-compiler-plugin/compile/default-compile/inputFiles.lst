@@ -24,3 +24,12 @@ C:\design-patterns\behavioral\src\main\java\com\example\behavioral\decorator\Dat
 C:\design-patterns\behavioral\src\main\java\com\example\behavioral\decorator\Demo.java
 C:\design-patterns\behavioral\src\main\java\com\example\behavioral\decorator\EncryptionDecorator.java
 C:\design-patterns\behavioral\src\main\java\com\example\behavioral\decorator\FileDataSource.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\AudioMixer.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\BitrateReader.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\Codec.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\CodecFactory.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\Demo.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\MPEG4CompressionCodec.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\OggCompressionCodec.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\VideoConversionFacade.java
+C:\design-patterns\behavioral\src\main\java\com\example\behavioral\facade\VideoFile.java
